@@ -1,5 +1,7 @@
 # 💫 About Me:
-🛠️ I’m currently working on: Developing an AI-driven full stack platform that will help graduate improve their video interview skills . This project will utilise technologies like React.js, Python, Spring Boot and Generative AI to automate the process to improve users interview answers.<br><br>🤝 I’m looking to collaborate on: Innovative educational technology projects, particularly those that integrate AI and machine learning to enhance learning experiences.<br><br>🆘 I’m looking for help with: Expanding my knowledge of natural language processing (NLP) techniques and implementing them in real-world applications.<br><br>🌱 I want to learn more about AI such as Advanced machine learning models and AI frameworks, focusing on their application in real world applications.<br><br>💬 Ask me about: My experience in developing full-stack applications, especially using React, Python, and Spring Boot. Also, ask me about creating AI chatbots and using deep learning for gesture recognition.<br><br>⚡ Fun fact: I created a custom dataset of over thousands of images using OpenCV for training deep learning models. This was part of my project to provide real-time feedback for sign language learners.<br><br>
+🛠️ I’m currently working on: Developing an AI-driven full stack platform that will help graduate improve their video interview skills . This project will utilise technologies like React.js, Python, Spring Boot and Generative AI to automate the process to improve users interview answers.<br><br>🤝 I’m looking to collaborate on: Innovative educational technology projects, particularly those that integrate AI and machine learning to enhance learning experiences.<br><br>🆘 I’m looking for help with: Expanding my knowledge of natural language processing (NLP) techniques and implementing them in real-world applications.<br><br>🌱 I want to learn more about AI such as Advanced machine learning models and AI frameworks, focusing on their application in real world applications.<br><br>💬 Ask me about: My experience in developing full-stack applications, especially using React, Python, and Spring Boot. Also, ask me about creating AI chatbots and using deep learning for gesture recognition.<br><br>⚡ 
+
+Fun fact: I plan to create a full-stack platform that will provide real time feedback to people that will help them improve thier interview skills, something I have struggles with and want to help others with.
 
 
 # 💻 Tech Stack:
@@ -13,6 +15,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Murad-gif&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
